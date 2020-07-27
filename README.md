@@ -1,29 +1,7 @@
 # JAVA-POJO-Genrator
 An tool made for JAVA POJO genration less then a second.
  eg. sample_xml
-<?xml version="1.0"?>
-<data name="Austria" direction="E">
-    <country name="Liechtenstein">
-        <rank>1</rank>
-        <year>2008</year>
-        <gdppc>141100</gdppc>
-        <neighbor name="Austria" direction="E"/>
-        <neighbor name="Switzerland" direction="W"/>
-    </country>
-    <country name="Singapore">
-        <rank>4</rank>
-        <year>2011</year>
-        <gdppc>59900</gdppc>
-        <neighbor name="Malaysia" direction="N"/>
-    </country>
-    <country name="Panama">
-        <rank>68</rank>
-        <year>2011</year>
-        <gdppc>13600</gdppc>
-        <neighbor name="Costa Rica" direction="W"/>
-        <neighbor name="Colombia" direction="E"/>
-    </country>
-</data>
+https://github.com/keshri23jayesh/JAVA-POJO-Genrator/blob/master/xml_to_pojo/sample.xml
 
 Sample base classes by Python APP
 public static class rank { 
