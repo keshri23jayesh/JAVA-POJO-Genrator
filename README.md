@@ -1,4 +1,4 @@
-# JAVA-POJO-Genrator
+# JAVA-POJO-Generator
 An tool made for JAVA POJO genration less then a second.
  eg. sample_xml
 https://github.com/keshri23jayesh/JAVA-POJO-Genrator/blob/master/xml_to_pojo/sample.xml
